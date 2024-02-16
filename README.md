@@ -1,10 +1,10 @@
-# Project Title
+# Tip Calculator
 
-Tip Calculator
+A simple calculator that calculates tip using user input.
 
 ## Description
 
-A simple calculator that calculates tip using user input. Using JavaFX, I created a GUI featuring input fields for the amount and number a guest, and a slider to select the desired tip percentage. Once all of the fields are filled the total cost, tip amount, and split cost are displayed.
+Using JavaFX, I created a GUI featuring input fields for the amount and number a guest, and a slider to select the desired tip percentage. Once all of the fields are filled, the total cost, tip amount, and split cost is displayed.
 
 ## Getting Started
 
