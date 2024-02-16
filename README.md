@@ -21,7 +21,7 @@ Using JavaFX, I created a GUI featuring input fields for the amount and number a
 * Using the command line navigate to the folder where you saved all of the program files
 * Compile the code using the fololwing command
 ```
-javac src/appplication/TipCalulator.java
+javac src/application/TipCalulator.java
 ```
 * Run the program using the fololwing command
 ```
